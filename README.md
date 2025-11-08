@@ -6,7 +6,7 @@
 ## :computer: Tecnologias e ferramentas que utilizo:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width='50' height='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width='50' height='50'/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width='50' height='50' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='50' height='50' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width='50' height='50' />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width='50' height='50' />
  
- - Tenho me dedicado ao estudo de Python, explorando áreas como automação, análise e tratamento de dados e machine learning, buscando constantemente aplicar esses conhecimentos em projetos práticos e desafios reais.
+ - Tenho me dedicado ao estudo de Python, explorando áreas como: automação, análise e tratamento de dados e machine learning. Busco constantemente aplicar esses conhecimentos em projetos práticos e desafios reais.
  - Caso queira me contatar, você pode falar comigo no Linkedin ou mandar uma solicitação para mim no Instagram. estarei disponibilizando os links aqui logo abaixo:
 ## Contatos:
 <div>
